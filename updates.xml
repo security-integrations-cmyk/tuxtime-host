@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='pbiphhkekcoblghhidogngbdlbnpdpic'>
-    <updatecheck codebase='https://security_integrations_tvalet.gitlab.io/tuxtime-host/tuxtime-extension.crx' version='1.3.0' />
+    <updatecheck codebase='https://security-integrations-cmyk.github.io/tuxtime-host/tuxtime-extension.crx' version='1.3.0' />
   </app>
 </gupdate>
